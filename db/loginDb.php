@@ -3,7 +3,7 @@
 class connexionDB
 {
     private $host    = 'localhost';   // nom de l'host
-    private $name    = '';     // nom de la base de donnée
+    private $name    = 'AtelierPersistanceDesDonnees';     // nom de la base de donnée
     private $user    = 'root';        // utilisateur
     private $pass    = 'root';        // mot de passe
     //private $pass    = '';          // Ne rien mettre si on est sous windows
